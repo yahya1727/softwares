@@ -1,0 +1,11 @@
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\bin\Debug\NotePadXP3.exe.config
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\bin\Debug\NotePadXP3.exe
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\bin\Debug\NotePadXP3.pdb
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.csprojAssemblyReference.cache
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.Form1.resources
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.Properties.Resources.resources
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.csproj.GenerateResource.cache
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.csproj.CoreCompileInputs.cache
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.exe
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.pdb
+D:\yahya\NotePadXP3\NotePadXP3\NotePadXP3\obj\Debug\NotePadXP3.SplashScreen.resources
